@@ -1,0 +1,42 @@
+C:\Users\Hp\OneDrive\Desktop\Generic type 1\Generic type\bin\Debug\net6.0\Generic type.exe
+C:\Users\Hp\OneDrive\Desktop\Generic type 1\Generic type\bin\Debug\net6.0\Generic type.deps.json
+C:\Users\Hp\OneDrive\Desktop\Generic type 1\Generic type\bin\Debug\net6.0\Generic type.runtimeconfig.json
+C:\Users\Hp\OneDrive\Desktop\Generic type 1\Generic type\bin\Debug\net6.0\Generic type.dll
+C:\Users\Hp\OneDrive\Desktop\Generic type 1\Generic type\bin\Debug\net6.0\Generic type.pdb
+C:\Users\Hp\OneDrive\Desktop\Generic type 1\Generic type\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\Hp\OneDrive\Desktop\Generic type 1\Generic type\bin\Debug\net6.0\Enums.NET.dll
+C:\Users\Hp\OneDrive\Desktop\Generic type 1\Generic type\bin\Debug\net6.0\ExtendedNumerics.BigDecimal.dll
+C:\Users\Hp\OneDrive\Desktop\Generic type 1\Generic type\bin\Debug\net6.0\MathNet.Numerics.dll
+C:\Users\Hp\OneDrive\Desktop\Generic type 1\Generic type\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Hp\OneDrive\Desktop\Generic type 1\Generic type\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hp\OneDrive\Desktop\Generic type 1\Generic type\bin\Debug\net6.0\NPOI.Core.dll
+C:\Users\Hp\OneDrive\Desktop\Generic type 1\Generic type\bin\Debug\net6.0\NPOI.OOXML.dll
+C:\Users\Hp\OneDrive\Desktop\Generic type 1\Generic type\bin\Debug\net6.0\NPOI.OpenXml4Net.dll
+C:\Users\Hp\OneDrive\Desktop\Generic type 1\Generic type\bin\Debug\net6.0\NPOI.OpenXmlFormats.dll
+C:\Users\Hp\OneDrive\Desktop\Generic type 1\Generic type\bin\Debug\net6.0\ICSharpCode.SharpZipLib.dll
+C:\Users\Hp\OneDrive\Desktop\Generic type 1\Generic type\bin\Debug\net6.0\SixLabors.Fonts.dll
+C:\Users\Hp\OneDrive\Desktop\Generic type 1\Generic type\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+C:\Users\Hp\OneDrive\Desktop\Generic type 1\Generic type\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hp\OneDrive\Desktop\Generic type 1\Generic type\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Hp\OneDrive\Desktop\Generic type 1\Generic type\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Hp\OneDrive\Desktop\Generic type 1\Generic type\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hp\OneDrive\Desktop\Generic type 1\Generic type\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+C:\Users\Hp\OneDrive\Desktop\Generic type 1\Generic type\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Hp\OneDrive\Desktop\Generic type 1\Generic type\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Hp\OneDrive\Desktop\Generic type 1\Generic type\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hp\OneDrive\Desktop\Generic type 1\Generic type\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Hp\OneDrive\Desktop\Generic type 1\Generic type\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Hp\OneDrive\Desktop\Generic type 1\Generic type\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Hp\OneDrive\Desktop\Generic type 1\Generic type\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hp\OneDrive\Desktop\Generic type 1\Generic type\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Hp\OneDrive\Desktop\Generic type 1\Generic type\obj\Debug\net6.0\Generic type.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Desktop\Generic type 1\Generic type\obj\Debug\net6.0\Generic type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Desktop\Generic type 1\Generic type\obj\Debug\net6.0\Generic type.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Desktop\Generic type 1\Generic type\obj\Debug\net6.0\Generic type.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Desktop\Generic type 1\Generic type\obj\Debug\net6.0\Generic type.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Desktop\Generic type 1\Generic type\obj\Debug\net6.0\Generic .21E99507.Up2Date
+C:\Users\Hp\OneDrive\Desktop\Generic type 1\Generic type\obj\Debug\net6.0\Generic type.dll
+C:\Users\Hp\OneDrive\Desktop\Generic type 1\Generic type\obj\Debug\net6.0\refint\Generic type.dll
+C:\Users\Hp\OneDrive\Desktop\Generic type 1\Generic type\obj\Debug\net6.0\Generic type.pdb
+C:\Users\Hp\OneDrive\Desktop\Generic type 1\Generic type\obj\Debug\net6.0\Generic type.genruntimeconfig.cache
+C:\Users\Hp\OneDrive\Desktop\Generic type 1\Generic type\obj\Debug\net6.0\ref\Generic type.dll
